@@ -16,3 +16,16 @@ database setting
   <li>spring.h2.console.path=/console</li>
 </ul>
 
+Deploy by maven
+-----------------------
+<ul>
+    <li>mvn clean</li>
+    <li>mvn install</li>
+    <li>mvn package</li>
+    <li>java -jar demo-0.0.1-SNAPSHOT.jar</li>
+</ul>
+Test with Postman
+-----------------------
+<ul>
+    <li>Open Staxter.postman_collection.json file</li>
+</ul>

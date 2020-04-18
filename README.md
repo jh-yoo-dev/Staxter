@@ -1,5 +1,3 @@
-<img src="https://images.prismic.io/staxter/510fe4c8-6606-4e9f-8da4-901cb8caaa73_3.svg?auto=compress,format" width="150px" height="150px"></img> 
-=======
 **Assignment Juhyoung Yoo**
 ---------------------------
 
